@@ -1,1 +1,20 @@
-{ "token" : "vinsi" }
+{
+	"token": "BAhbB0kiAbB7ImNsaWVudF9pZCI6IjY3MzNkZjYwNTE0YzE0MDA1NmQzZThjOGJhMGFhMzlmNDY4YmY2ODkiLCJleHBpcmVzX2F0IjoiMjAyMS0wNi0yOVQxNDoyNjo0MloiLCJ1c2VyX2lkcyI6WzQxMTA3NTg3XSwidmVyc2lvbiI6MSwiYXBpX2RlYWRib2x0IjoiMGZjYzNkNjQyMTI1MzdkN2IyOWQwMzE1ZGFjMzI5NmEifQY6BkVUSXU6CVRpbWUNrlcewPi9p2oJOg1uYW5vX251bWkCGAE6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgYoOgl6b25lSSIIVVRDBjsARg==--1750ecaa1d109dc68595682200b45be5598b4095",
+	"juser": "vthulaseedharan",
+	"jpasswd": "Fg31jxoJHN9GR6fnDbvn6D61",
+	"jenabled": 1,
+	"benabled": 1,
+	"squad": {
+		"1": "UnReserved9",
+		"2": "InStore",
+		"3": "Identity",
+		"4": "Checkout",
+		"5": "CustomerDiscovery",
+		"6": "CircleCI",
+		"7": "Personalization",
+		"8": "Regression",
+		"9": "Search",
+		"10": "Unreserved"
+	},
+	"install_linkmode": 1
+}
