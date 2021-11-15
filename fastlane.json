@@ -14,7 +14,8 @@
 		"7": "Personalization",
 		"8": "Regression",
 		"9": "Search",
-		"10": "Unreserved"
+		"10": "Unreserved",
+		"11": "CRM"
 	},
 	"install_linkmode": 1
 }
